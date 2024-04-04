@@ -1,7 +1,6 @@
-### 👋 Olá, sou Lucivando Sousa, um apaixonado por programação.
+# 👋 Olá, sou Lucivando Sousa, um apaixonado por programação.
 
-##
-
+### Sobre mim:
 🥷 Sou desenvolvedor Full-Stack.<br>
 🎓 Sou Bacharel em Administração e Tecnologo em Análise e Desenvolvimento de Sistemas.<br>
 👨‍🎓 Atualmente estou me especializando em desenvolvimento Full-Stack.<br>
@@ -34,3 +33,8 @@
   <img align="center" alt="Swagger" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
+
+##
+### Estatísticas do GitHub:
+#### Principais Linguagens:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucivandosousa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
