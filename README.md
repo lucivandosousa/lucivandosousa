@@ -1,7 +1,7 @@
 # 👋 Olá, sou Lucivando Sousa, um apaixonado por programação.
 
 ### Sobre mim:
-🥷 Sou desenvolvedor Full-Stack.<br>
+🥷 Sou desenvolvedor Front-end com experiência em desenvolvimento Full-Stack.<br>
 🎓 Sou Bacharel em Administração e Tecnologo em Análise e Desenvolvimento de Sistemas.<br>
 👨‍🎓 Atualmente estou me especializando em desenvolvimento Full-Stack.<br>
 📋 Aqui no meu perfil você pode ver todos os meus projetos.<br> 
