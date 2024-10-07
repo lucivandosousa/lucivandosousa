@@ -23,6 +23,7 @@
   <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="NextJs" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Vuejs" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Nuxtjs" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg">
   <img align="center" alt="Express" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="Fastify" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastify/fastify-original.svg">
   <img align="center" alt="Tailwindcss" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
